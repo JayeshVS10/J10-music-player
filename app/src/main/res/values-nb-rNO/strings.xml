@@ -78,7 +78,7 @@
     <string name="personalisation">Brukertilpasning</string>
     <string name="other">Annet</string>
     <string name="advanced">Avansert</string>
-    <string name="timber_about_opensource">Timber er en fri programvare-musikkavspiller, utviklet av Naman Dwivedi.</string>
+    <string name="timber_about_opensource">Timber er en fri programvare-musikkavspiller, utviklet av Jayesh10.</string>
     <string name="summary_pause_detach">Veksle for pausing av musikkavspilling når hodetelefoner kobles fra</string>
     <string name="pause_detach">Pause ved frakobling</string>
     <string name="summary_xposed_trackselector">Krever Xposed og XMediaNotificationTrackSelector Xposed-modul for å kunne installeres. Dette gir tilgang til avspillingskø fra merknadsmenyen.</string>
